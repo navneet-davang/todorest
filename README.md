@@ -1,4 +1,4 @@
-# todorest
+# todorest app (Added app) 
 This sample HAL Explorer is based on Spring and you can browse and explore HAL and HAL-FORMS-based RESTful Hypermedia APIs.
 
 ## HAL Explorer
